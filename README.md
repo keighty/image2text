@@ -11,10 +11,10 @@ $ git clone git@github.com:keighty/image2text.git
 $ cd image2text
 $ gem install bundler
 $ bundle install
-$ ruby routes.rb
+$ rackup
 ```
 
-nagivate to http://localhost:4567/local
+nagivate to http://localhost:9292/local
 
 ### Useful links
 
